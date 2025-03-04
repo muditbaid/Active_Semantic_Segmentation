@@ -15,8 +15,8 @@ This repository provides an implementation of **semantic segmentation** using **
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<USERNAME>/semantic-segmentation-unet.git
-cd semantic-segmentation-unet
+git clone https://github.com/muditbaid/Active_Semantic_Segmentation.git
+cd Active_Semantic_Segmentation
 ```
 
 ### 2️⃣ Install Dependencies
